@@ -1,6 +1,10 @@
 # 2022_TI-CUP_problem_C
 2022年电子设计大赛，C题——小车跟随行驶系统，控制代码的一部分。
 
+开发环境使用keil
+
+为什么用keil呢, keil使用CMSIS-DAP下载器, ~~可以快乐的无线下载调试~~
+
 [基础部分视频b站地址](https://www.bilibili.com/video/BV19T411j74q)
 
 [自由发挥部分视频b站地址](https://www.bilibili.com/video/BV1SN4y1V75X)
