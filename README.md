@@ -7,7 +7,7 @@
 
 文件夹number_2是第二辆车的代码，number_3是第三辆车的代码
 
-第一辆车是队友完成的，代码地址：https://github.com/PtilopsisSak/TI_cup_2022_problem_C_MSP432P401R_car_1
+第一辆车是队友完成的，[代码地址](https://github.com/PtilopsisSak/TI_cup_2022_problem_C_MSP432P401R_car_1)
 
 重要提示：
 
