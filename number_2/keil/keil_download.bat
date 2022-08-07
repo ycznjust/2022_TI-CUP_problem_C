@@ -1,0 +1,1 @@
+D:\MDK5\UV4\UV4.exe -f c:\Users\Ptisak\Desktop\MSP432P401R\keil\empty.uvprojx -j0 -t empty -o c:\Users\Ptisak\Desktop\MSP432P401R\keil\.vscode\uv4.log

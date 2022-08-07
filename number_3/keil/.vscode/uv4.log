@@ -1,0 +1,8 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\program\MDK\arm\ARM\ARMCC\Bin'
+Build target 'empty'
+After Build - User command #2: keil_download.bat
+
+c:\Users\杨城彰\Desktop\2022-Ti Cup\slave\keil>D:\MDK5\UV4\UV4.exe -f c:\Users\Ptisak\Desktop\MSP432P401R\keil\empty.uvprojx -j0 -t empty -o c:\Users\Ptisak\Desktop\MSP432P401R\keil\.vscode\uv4.log 
+系统找不到指定的路径。
+".\Build\empty.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:01
